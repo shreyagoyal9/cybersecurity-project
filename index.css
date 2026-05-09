@@ -39,3 +39,10 @@ h1 {
   color: #1a4fff;
   margin-bottom: 10px;
 }
+
+/* ⭐ NEW FOOTER STYLE */
+.footer {
+  margin-top: 30px;
+  font-size: 14px;
+  color: #666;
+}
